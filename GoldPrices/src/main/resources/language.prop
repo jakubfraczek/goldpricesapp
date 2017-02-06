@@ -1,0 +1,17 @@
+GOLD_PRIZE = CENA ZŁOTA
+GOLD_PRIZES = ceny złota
+DATE = DATA NOTOWANIA
+AVARAGE_GOLD_PRICE = ŚREDNIA CENA ZŁOTA
+RECOMENDATION = REKOMENDACJA
+GOLD_APP = Aplikacja cen złota
+NOT_ADVAICE_WARRNING = Uwaga, to nie jest porada inwestycyjna!
+USING_THANKS = Dziękuję za skorzystanie z aplikacj
+SERVER_ERROR = Nie udało się pobrać danych z serwera lub wystąpił inny błąd. W każdym razie nie działa
+NOT_ENOUGH_DATA = Niewystarczająca ilość danych do analizy
+INCORRECT_DATA_FORMAT = Niepoprawny formaty danych!
+INCORRECT_VALUE = Niepoprawna liczba! Zakres to 1-255
+RANGE_OF_DAYS = Podaj liczbę dni dla ktróch chcesz pobrać dane
+KEEP = Trzymaj!
+SELL = Sprzedawaj!
+BUY = Kupuj!
+FILE_NAME = CenyZlota.xlsx
