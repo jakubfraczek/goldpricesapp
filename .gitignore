@@ -1,2 +1,7 @@
 /target/
 .DS_Store
+GoldPrices.iml
+.classpath
+.project
+.settings
+.idea
